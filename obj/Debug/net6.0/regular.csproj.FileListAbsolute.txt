@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/regular/bin/Debug/net6.0/regular
+/Users/1lexaa/Documents/учеба/regular/bin/Debug/net6.0/regular.deps.json
+/Users/1lexaa/Documents/учеба/regular/bin/Debug/net6.0/regular.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/regular/bin/Debug/net6.0/regular.dll
+/Users/1lexaa/Documents/учеба/regular/bin/Debug/net6.0/regular.pdb
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.dll
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/refint/regular.dll
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.pdb
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/regular.genruntimeconfig.cache
+/Users/1lexaa/Documents/учеба/regular/obj/Debug/net6.0/ref/regular.dll
